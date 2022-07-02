@@ -1071,7 +1071,9 @@ body.ie ._ibg img {
       -ms-grid-row-align: start;
       align-self: start;
 }
-
+.resort__button:hover{
+  color: #3771C8;
+}
 .statistics-resort {
   display: -webkit-box;
   display: -ms-flexbox;
